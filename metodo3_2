@@ -1,0 +1,18 @@
+public class metodo3_2 {
+	public static void main(String args[]){
+}
+public void iniciar(){
+	int div = div();
+	System.out.println("El resultado de la division es: " + div);
+	}
+
+
+	public int div(){
+	int x = 12;
+	int y = 3;
+	int resultado = (x/y);
+	return resultado;
+
+
+}
+}
