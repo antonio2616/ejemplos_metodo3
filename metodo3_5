@@ -1,0 +1,19 @@
+public class metodo3_5 {
+
+	public static void main(String[] args) {
+	}
+	public void iniciar(){
+				int multi = multi();
+				System.out.println("El resultado de la multiplicacion es: " +multi);
+				}
+
+
+				public int multi(){
+				int x = 10;
+				int y = 40;
+				int resultado = x*y;
+				return resultado;
+
+				}	
+
+	}
