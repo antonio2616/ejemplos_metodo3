@@ -1,0 +1,18 @@
+public class metodo3_4 {
+
+	public static void main(String[] args) {
+		
+		}
+		public void iniciar(){
+			int suma = suma();
+			System.out.println("El resultado de la division es: " + suma);
+			}
+
+			public int suma(){
+			int x = 12;
+			int y = 3;
+			int resultado = (x+y);
+			return resultado;
+	}
+
+}
